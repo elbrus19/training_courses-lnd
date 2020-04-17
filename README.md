@@ -9,7 +9,7 @@ by the Canarian Employment Service.
 
 *[JavaScript](https://netbeans.org/) - JavaScript
 
-##Links to Projects
+## Links to Projects
 
 * Document to validate XML(XSD): https://github.com/elbrus19/training_courses-lnd/blob/master/training_courses.xsd
 * Document XSL to XML:https://github.com/elbrus19/training_courses-lnd/blob/master/training_courses.xsl
