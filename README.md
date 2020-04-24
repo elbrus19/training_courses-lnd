@@ -14,6 +14,8 @@ by the Canarian Employment Service.
 * Document to validate XML(XSD): https://github.com/elbrus19/training_courses-lnd/blob/master/training_courses.xsd
 * Document XSL to XML:https://github.com/elbrus19/training_courses-lnd/blob/master/training_courses.xsl
 * Document XSL to HTML:https://github.com/elbrus19/training_courses-lnd/blob/master/training_courses_html.xsl
+* Firebase Hosting: https://training-courses-d3ae8.web.app/training_courses_output.html
+* Firebase Hosting 2: https://training-courses-d3ae8.web.app/training_courses_output_2.html
 
 ## Acknowledgments
 
